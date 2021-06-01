@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotDefterim</string>
+    <string name="notlar_m">Notlarım</string>
+    <string name="arama_yap">Arama yap</string>
+    <string name="ba_l_k_bilgisi">Başlık bilgisi</string>
+    <string name="type_not_here">Type not here</string>
+    <string name="title">Title</string>
+    <string name="renk_sec">Renk sec</string>
+    <string name="resim_ekle">Resim Ekle</string>
+    <string name="url_ekle">Url ekle</string>
+    <string name="url_giriniz">Url giriniz</string>
+    <string name="ekle">Ekle</string>
+    <string name="iptal_dialog">Iptal</string>
+    <string name="notu_silmek_istedigine_emin_misin">Notu silmek istedigine emin misin?</string>
+    <string name="notu_sil">Notu sil</string>
+    <string name="ptal">İptal</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#292929</color>
+    <color name="colorAdd">#FDBE3B</color>
+    <color name="colortxthint">#7B7B7B</color>
+    <color name="colorsrchicon">#DBDBDB</color>
+    <color name="colorquickactionbackgro">#2F2D2E</color>
+    <color name="coloricon">#A4A4A4</color>
+    <color name="colorsubtitle">#CECECE</color>
+    <color name="colordefaultnote">#333333</color>
+    <color name="colornotesubtitle">#FAFAFA</color>
+    <color name="colormisbackground">#1F1F1F</color>
+    <color name="colornote2">#FDBE3B</color>
+    <color name="colornote3">#FF4842</color>
+    <color name="colornote4">#0000FF</color>
+    <color name="colornote5">#000000</color>
+    <color name="colornote6">#87CEEB</color>
+    <color name="colornote7">#00BFFF</color>
+    <color name="colornote8">#4169E1</color>
+    <color name="colornote9">#7CFC00</color>
+    <color name="colornote10">#2E8B57</color>
+    <color name="colornote11">#008000</color>
+    <color name="colornote12">#EE82EE</color>
+    <color name="colornote13">#FF69B4</color>
+    <color name="colornote14">#C71585</color>
+    <color name="colornote15">#ffe740</color>
+    <color name="colornote16">#FFA500</color>
+    <color name="colornote17">#8B4513</color>
+    <color name="colordelete">#FF4842</color>
+    <color name="colorsrchbackground">#333333</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
